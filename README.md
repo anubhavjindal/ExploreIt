@@ -1,0 +1,2 @@
+# ExploreIt
+ExploreIt! is a Content Management System created using PHP, Bootstrap, HTML, CSS, JavaScript. ExploreIt! has various different sections like Music, Java, Earth, Space, Movies, etc for exploring. Each section has various posts which can be added by users and are monitored by Administrators. ExploreIt! allows new registrations and also provides live statistics and control over posts and user accounts.
